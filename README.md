@@ -6,8 +6,6 @@
 
 - I am currently a third-grade student. **KTU and University of Lodz**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Berko01/Berko01/projects?query=is%3Aopen](https://github.com/Berko01/Berko01/projects?query=is%3Aopen](https://github.com/Berko01?tab=repositories)
-
 - 📫 How to reach me **berkindundar2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
